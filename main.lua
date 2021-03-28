@@ -1,4 +1,4 @@
-=local __red = "\27[31;1m"
+local __red = "\27[31;1m"
 local __midblue = "\27[91;1m"
 local __green = "\27[32;1m"
 local __lightgreen = "\27[92;1m"
